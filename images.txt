@@ -1,1 +1,1 @@
-kubeasz:3.3.0
+easzlab/kubeasz:3.0.0
