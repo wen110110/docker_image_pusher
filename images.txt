@@ -1,1 +1,1 @@
-kubeasz-k8s-bin:v.1.20.2
+easzlab/kubeasz-k8s-bin:v.1.20.2
